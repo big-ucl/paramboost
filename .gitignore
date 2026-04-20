@@ -8,6 +8,7 @@ data/diabetes/
 data/fraud/
 data/uci/YearPredictionMSD.txt
 experiment/data/
+paper/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
