@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time
+protein,linear_model,0,26.816950152085944,26.597976792413878,27.192911388532217,0.003989458084106445

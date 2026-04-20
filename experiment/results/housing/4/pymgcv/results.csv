@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time
+housing,pymgcv,4,20.089314472622736,16.936418140336595,33.06919663384584,0.015219926834106445

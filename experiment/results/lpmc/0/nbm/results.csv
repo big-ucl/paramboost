@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time
+lpmc,nbm,0,0.6524724936480156,0.6624663363925737,0.6771416623079969,7.44338583946228

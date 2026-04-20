@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time
+energy,nam,8,9.81593841030314,6.187841326837029,6.441752293722393,0.2574615478515625

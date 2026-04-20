@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time,best_iter
+msd,pymgcv,0,91.00909584982055,93.02042346607685,90.42570862413557,121.80724239349365,0

@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time,best_iter
+power,aplr,8,17.038028146058313,16.032983053142495,18.28364841626839,15.594201564788818,0

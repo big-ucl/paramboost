@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time,best_iter
+diabetes,pymgcv,0,0.4140964772980964,0.4154794254066603,0.41636321684410404,40.00560426712036,0

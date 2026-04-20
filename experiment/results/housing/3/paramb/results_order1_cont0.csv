@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time,best_iter
+housing,paramb,3,12.641633733776594,12.735857578017466,12.627345006949142,3.258816719055176,286

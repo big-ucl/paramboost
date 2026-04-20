@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time
+power,pymgcv,4,20.71553798569491,19.36146359204091,21.665362806081074,0.048197269439697266

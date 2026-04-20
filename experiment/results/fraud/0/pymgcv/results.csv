@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time,best_iter
+fraud,pymgcv,0,0.003953796346292681,0.0036315815196928036,0.004081654676594576,10.027156352996826,0

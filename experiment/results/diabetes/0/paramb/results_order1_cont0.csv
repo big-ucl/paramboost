@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time,best_iter
+diabetes,paramb,0,0.3813493680904061,0.38850262263444274,0.3854613999180996,157.16651844978333,24328

@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time
+power,nbm,9,18.70856877674542,19.017195323955313,19.350229573032163,2.808107614517212

@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time,best_iter
+lpmc,aplr,0,0.6497993956692144,0.6493872069106963,0.6738084475933238,494.49362564086914,0

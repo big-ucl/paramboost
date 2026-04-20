@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time,best_iter
+energy,ebm,1,0.9579625792168049,0.9314398668640231,1.3244994746138254,0.1041402816772461,0

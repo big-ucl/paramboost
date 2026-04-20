@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time
+har,nbm,0,0.13485389934402106,0.18069617074273808,0.1699491224375101,10.421154260635376

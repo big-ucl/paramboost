@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time
+protein,pymgcv,0,26.815209686818097,26.615313027480706,27.18618509347546,0.7422173023223877

@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time,best_iter
+protein,paramb,0,24.901458661649702,24.687457564317967,25.28705477385912,18.28920841217041,25000

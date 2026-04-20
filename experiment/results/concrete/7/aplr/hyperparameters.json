@@ -1,0 +1,1 @@
+{"early_stopping_rounds": 100, "m": 25000, "min_observations_in_split": 1, "v": 0.05087197896022342, "ridge_penalty": 0.001, "bins": 64}

@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time
+concrete,nam,1,51.190453000142014,50.769078949428945,53.55423214836669,0.2825288772583008

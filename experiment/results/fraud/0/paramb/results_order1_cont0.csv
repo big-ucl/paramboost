@@ -1,0 +1,2 @@
+dataset,model,iteration,train_score,val_score,test_score,time,best_iter
+fraud,paramb,0,0.0021331679455698785,0.0019158930628187818,0.002559278967975726,61.0835816860199,1

@@ -1,0 +1,14 @@
+[project]
+name = "paramboost-anonymous"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aplr>=10.20.1",
+    "jax[cuda]>=0.9.0",
+    "pymgcv>=0.0.10",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+    "torch>=2.10.0",
+]
