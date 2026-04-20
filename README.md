@@ -26,6 +26,7 @@ To obtain the case study results, simply run:
 ```
 uv run case_study/lpmc.py
 ```
+Because of some numerical errors, the results might vary slightly from one run to another, but should be consistent overall.
 
 Note that the datasets are already splitted in train--val--test sets. To obtain new splits, simply run `split_dataset.py` with a different seed.
 
