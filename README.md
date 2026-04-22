@@ -1,6 +1,6 @@
 # ParamBoost: Gradient Boosted Piecewise Cubic Polynomials
 
-This repository contains the code used to obtain results for our arXiv paper "ParamBoost: Gradient Boosted Piecewise Cubic Polynomials".
+This repository contains the code used to obtain results for our [arXiv paper "ParamBoost: Gradient Boosted Piecewise Cubic Polynomials"](https://arxiv.org/abs/2604.18864).
 
 We used `uv` as python package manager. To obtain the benchmark results, simply run:
 
